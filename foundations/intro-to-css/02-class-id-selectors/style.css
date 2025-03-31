@@ -1,0 +1,30 @@
+.a-class {
+    background-color: pink;
+    color: black;
+    font-size: 24px;
+}
+
+#one-id {
+    font-size: 40px;
+    color: blue;
+    font-weight: bold;
+}
+
+.cool {
+    background-color: pink;
+    font-size: 34px;
+    color:black;
+}
+
+#another-id {
+    background-color: lightgreen;
+    color:black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.also-class {
+    background-color: pink;
+    font-size: 24px;
+    color:black;
+}
